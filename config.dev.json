@@ -1,10 +1,10 @@
 {
-	"email": "",
-	"password": "",
+	"email": "undertaker88809@gmail.com",
+	"password": "zzzxxx",
 	"adminOnly": false,
-	"adminBot": [],
+	"adminBot": [61555393416824],
 	"nickNameBot": "",
-	"prefix": "#",
+	"prefix": "-",
 	"database": {
 		"type": "local",
 		"uriMongodb": "",
